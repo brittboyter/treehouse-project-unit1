@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: 'roboto', 'Courier New';
+  font-family: 'courier new';
   color: #111;
   background: #333;
 }
@@ -72,7 +72,7 @@ header .profile-image {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 5px dotted #1b72b5;
+  border: 7px dotted #1b72b5;
   transition: all .5s;
 }
 header .profile-image:hover {
