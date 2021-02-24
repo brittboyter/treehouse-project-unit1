@@ -11,6 +11,22 @@ body {
   color: #111;
   background: #333;
 }
+
+.h1 {
+  font-family: courier new;
+  font-size: 25px;
+  color: #1b72b5;
+  margin-top: 40px;
+  
+
+}
+
+p {
+  font-family: courier new;
+  font-size: 15px;
+  color: #888;
+
+}
 /* Link Styles */
 
 a {
@@ -74,6 +90,22 @@ header .profile-image {
   border-radius: 50%;
   border: 7px dotted #1b72b5;
   transition: all .5s;
+}
+
+.petpics {
+  border-radius: 50%;
+  border: 7px dotted #1b72b5;
+  width: 200px;
+  height: 200px;
+
+
+}
+
+.petpics:hover {
+  transform: scale(1.2) rotate(180deg);
+  border: 7px dotted #f9f;
+  transition: all .5s;
+
 }
 header .profile-image:hover {
   transform: scale(1.2) rotate(180deg);
