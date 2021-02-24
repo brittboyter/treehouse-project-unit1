@@ -101,7 +101,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .about:hover {
-  border-color: #ff99ff;
+  border-color: #f9f;
 }
 
 ul.skills {
@@ -113,11 +113,16 @@ ul.skills {
   border-radius: 6px;
   display: inline-block;
   background: #333;
-  color: #777;
+  color: #f9f;
   padding: 5px 10px;
   margin: 2px;
+  border: dashed #f9f 1px;
 }
+.skills li:hover {
+  border: solid #1b72b5 2px;
+  color: #1b72b5;
 
+}
 .skills li:nth-child(odd) {
   background: #333;
 }
