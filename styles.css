@@ -43,7 +43,7 @@ a:hover {
 .nav .label {
     display: block;
     margin-right: auto;
-    color: #777;
+    color: #1b72b5;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -85,6 +85,7 @@ header .profile-image:hover {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
+    text-decoration: underline;
 }
 
 #goals {
@@ -93,6 +94,7 @@ header .profile-image:hover {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 2px;
+  text-decoration: underline;
 
 }
 .tag {
