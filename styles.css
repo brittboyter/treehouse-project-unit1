@@ -78,6 +78,23 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(180deg);
 }
+
+#background {
+    color: #222;
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#goals {
+  color: #222;
+  font-size: 19px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+
+}
 .tag {
   background-color: transparent;
   color: #222;
